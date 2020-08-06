@@ -3,10 +3,6 @@
   
 }
 
-.featured {
-
-}
-
 .contentBody{
 
 }
@@ -39,9 +35,11 @@
   border: solid black;
   border-width: 1px;
   background-color: #ADFF2F;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
   margin: auto;
- 
+  
+  float: left;
+  height: 500px;
 }
 
 .box3 {
@@ -51,7 +49,8 @@
   background-color: #40E0D0;
   margin-bottom: 20px;
   margin: auto;
- 
+  float: left;
+  height: 500px;
 }
 
 .box4 {
@@ -61,7 +60,7 @@
   background-color: #E6E6FA;
   margin-bottom: 20px;
   margin: auto;
- 
+  
 }
 
 .box5 {
