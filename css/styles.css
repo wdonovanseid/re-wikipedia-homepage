@@ -3,22 +3,9 @@
   
 }
 
-.contentBody{
-
-}
- .sidebar {
-  font-size: 14px;
-  
 }
 .contentBody{
-
-}
-.sidebar {
-  font-size: 14px;
-  
-}
-.contentBody{
-
+font-size: 14px;
 }
 .box1 {
   width: 70%;
@@ -35,10 +22,9 @@
   border: solid black;
   border-width: 1px;
   background-color: #ADFF2F;
-  margin-bottom: 0px;
+  margin-bottom: 10px;
   margin: auto;
-  
-  float: left;
+  float: right;
   height: 500px;
 }
 
@@ -49,7 +35,7 @@
   background-color: #40E0D0;
   margin-bottom: 20px;
   margin: auto;
-  float: left;
+  float: right;
   height: 500px;
 }
 
